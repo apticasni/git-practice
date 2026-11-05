@@ -1,6 +1,10 @@
-\# Git Practice
+This project is for learning Git workflows.
 
 
 
-Learning the Aptic development workflow.
+
+
+
+
+This repository helps practice team collaboration.
 
